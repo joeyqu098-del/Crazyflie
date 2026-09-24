@@ -1,0 +1,7 @@
+[submodule "crazy-practical-2022"]
+	path = crazy-practical-2022
+	url = https://github.com/dronecourse-epfl/crazy-practical-2022.git
+
+[submodule "crazyflie-lib-python"]
+	path = crazyflie-lib-python
+	url = https://github.com/bitcraze/crazyflie-lib-python.git
